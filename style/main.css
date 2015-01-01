@@ -3,7 +3,7 @@
 html, body {
   margin: 0;
   padding: 0;
-  background-image: url('/home/lean/Descargas/clon.jpg');
+  background-image: url('../tile-sets/star_wars/clon.jpg');
   background-color: white;
   background-repeat: no-repeat;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
